@@ -15,7 +15,7 @@
   <br/>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkddnjs21)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dltkddnjs21&theme=dark&locale=ko&card_width=500&stroke=000000&ring=0B45B7&fire=1060FF&dates=D3D3D3&currStreakLabel=FFFFFF&sideNums=1060FF&currStreakNum=1060FF)](https://git.io/streak-stats)
  
  
  
