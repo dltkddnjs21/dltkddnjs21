@@ -14,7 +14,7 @@
  
   <br/>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)]
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dltkddnjs21&color=dark)]
 </div>
  
  
